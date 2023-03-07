@@ -30,3 +30,4 @@ New line in branch2
 Bye line in branch2
 
 New commit 1
+New commit 2
